@@ -1,16 +1,5 @@
-<!--Portfolio Button with Water Animation-->
-<div align="center">
-  <a href="https://www.aakashkandel.com.np" target="_blank" style="text-decoration: none;">
-    <div style="position: relative; display: inline-block; overflow: hidden; border-radius: 25px;">
-      <span style="position: absolute; display: block; width: 100%; height: 100%; background: rgba(255, 255, 255, 0.2); z-index: 1; border-radius: 25px;"></span>
-      <span style="position: absolute; display: block; width: 300%; height: 300%; background: linear-gradient(45deg, #f0d787, #eb6383, #72deff, #79f7a9); top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(45deg); animation: animateWater 2s linear infinite;"></span>
-      <span style="position: relative; z-index: 2; color: #fff; font-size: 18px; font-weight: bold; padding: 15px 30px; border-radius: 25px;">Visit Portfolio</span>
-    </div>
-  </a>
-</div>
-
 <!--Banner-->
-![Aakash Kandel Banner Image](./banner.png)
+
 
 <!--Night Owl image-->
 <div>
@@ -35,7 +24,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Your GitHub Username" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Aakashkandel&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Aakashkandel" style="padding-right:20px;" />
 </p>
 
 ---
@@ -56,16 +45,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/your-github-username">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <a href="https://github.com/Aakashkandel">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aakashkandel&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/your-github-username">
-          <img align="center" src="https://streak-stats.demolab.com?user=your-github-username&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <a href="https://github.com/Aakashkandel">
+          <img align="center" src="https://streak-stats.demolab.com?user=Aakashkandel&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -74,16 +63,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/your-github-username/your-latest-project">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=your-latest-project&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Your Latest Project" />
+        <a href="https://github.com/Aakashkandel/your-latest-project">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakashkandel&repo=your-latest-project&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Your Latest Project" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/your-github-username">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=your-github-username&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        <a href="https://github.com/Aakashkandel">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Aakashkandel&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -94,7 +83,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aakashkandel&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
@@ -114,31 +103,29 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+ <a href="https://www.linkedin.com/in/aakash-kandel-b97b1b2a1/?original_referer=https%3A%2F%2Faakashkandel.com.np%2F" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-<a href="mailto:your-email@gmail.com" target="_blank">
+<a href="mailto:aakashkandel9777@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=your-email@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/your-instagram-handle" target="_blank">
+<a href="https://www.instagram.com/aakash__kandel/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=your-instagram-handle Instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/your-twitter-handle" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="your-twitter-handle Twitter" style="margin-bottom: 5px;" />
-</a>
+
 </div>
 <br/>
 
 <!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/your-username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
+
 
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-# Aakash_kandel
+
+<!-- Snake Animation Contribution -->
+
